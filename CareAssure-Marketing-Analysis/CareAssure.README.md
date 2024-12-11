@@ -8,9 +8,9 @@ With next year's marketing budget planning, CareAssure seeks to evaluate how eff
 
 # Data Structure
   The dataset consisted of 70K records over three tables:
-    - Marketing campaign
-    - Customer signups and demographics
-    - Claim information
+  * Marketing campaign
+  * Customer signups and demographics
+  * Claim information
 ![CareAssure_ERD](https://github.com/user-attachments/assets/e9ba9beb-25c0-4989-880b-c2cc0891db00)
 
 # Insighs Summary

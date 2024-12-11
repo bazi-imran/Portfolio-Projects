@@ -1,15 +1,10 @@
-# CareAssure-Marketing-Analysis
-CareAssure Health Insurance, established in 2016, provides medical insurance coverage to thousands 
-of customers across the United States. The company offers four plan tiers—bronze, silver, gold, and 
-platinum—each with customized premiums and claim coverage rates. In 2019, CareAssure launched 
-marketing campaigns focused on wellness education, plan affordability, and preventative care 
-promotion.
+# CareAssure Marketing Insights
 
-I developed an interactive Tableau dashboard to analyze marketing, signup, and claims metrics, 
-evaluating campaign performance and providing budget allocation recommendations. The project had two 
-main objectives: increasing customer signups and expanding CareAssure's brand awareness nationwide. 
-To communicate these findings effectively, I created a PowerPoint presentation detailing key insights 
-and recommendations for the marketing team.
+## Project Overview: This project analyzes marketing campaign performance at CareAssure Health to provide recommendations for future marketing budget allocation across campaign categories.
+
+**Founded in 2016, CareAssure Health provides medical insurance coverage to thousands of customers across the United States. In 2019, they launched new marketing campaign categories** focusing on wellness education, plan affordability, and preventative care promotion. Customers can choose from four plan tiers—bronze, silver, gold, and platinum—each offering different premiums and claim coverage rates.
+
+With next year's marketing budget planning, CareAssure seeks to evaluate how effective their different campaign categories have been in achieving two key goals: driving new customer acquisitions and expanding brand recognition nationwide. This analysis will help inform smarter budget allocation decisions.
 
 # Data Structure 
 

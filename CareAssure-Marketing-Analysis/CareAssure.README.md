@@ -6,14 +6,14 @@
 
 With next year's marketing budget planning, CareAssure seeks to evaluate how effective their different campaign categories have been in achieving two key goals: driving new customer acquisitions and expanding brand recognition nationwide. This analysis will help inform smarter budget allocation decisions.
 
-# Data Structure
+## Data Structure
   The dataset consisted of 70K records over three tables:
   * Marketing campaign
   * Customer signups and demographics
   * Claim information
 ![CareAssure_ERD](https://github.com/user-attachments/assets/e9ba9beb-25c0-4989-880b-c2cc0891db00)
 
-# Insighs Summary
+## Insighs Summary
 **In evaluating campaign performance, the analysis focused on the following key metrics:**
 
 - **Signup Rate**: The percent of people who see a campaign and subsequently sign up for a Row Health plan.
@@ -44,11 +44,24 @@ With next year's marketing budget planning, CareAssure seeks to evaluate how eff
 - Across campaign categories, Golden Years Security had the highest cost per clicks by far at $0.68, which is 9-10x greater than the average CPC of $0.07.
 - In contrast, #CoverageMatters has the lowest CPC ($0.03).
 - Across campaign types, Policy information and Health Awareness tied for lowest CPC ($0.04), Policy information having more than double the impressions.
-  
-# Interactive Dashboard
 
-# Recommendations
+## Recommendations
+- **Health for All:** Reallocate budget from Golden Years Security to Health for All campaigns, given their high cost per acquisition versus Health for All's superior performance. Health for All drives the highest signup rates with low cost per signup, making it most efficient at converting impressions to signups.
+  - **Health Awareness:** Within Health for All campaigns, prioritize health awareness-type marketing.
+- **#CoverageMatters - Product Promotion Campaign Types:** Focus on this campaign category and type combination, as it delivers the lowest cost per signup while maintaining high signup volume.
+- **COVID Campaigns:** Investigate why COVID-based campaigns have an unusually high cost per signup—specifically, two signups costing over $1k each.
+- **Tailored Health Plans:** Review and revise strategies for this campaign, as it shows poor performance with low CTR despite high impressions.
 
-# PowerPoint Presentation
+## Interactive Dashboard
+The dashboard can be found in Tableau Public here. This interactive dashboard highlights trends, distributions, and key insights across marketing and signup metrics, providing valuable context for current analysis, while claims metrics offer a foundation for the next steps. It empowers users to filter data by plan, campaign type, and state, enabling a deeper understanding of performance drivers and uncovering actionable opportunities to refine strategies.
 
-# Contact
+![Final Dashboard](https://github.com/user-attachments/assets/1eb5d0c7-f86f-4d5e-829c-420b3a3b09b6)
+
+## PowerPoint Presentation
+<img width="840" alt="Screenshot 2024-12-11 at 8 53 55 AM" src="https://github.com/user-attachments/assets/fb8c6084-3637-4e42-9f25-d76b0e7fc890" />
+<img width="840" alt="Screenshot 2024-12-11 at 8 54 54 AM" src="https://github.com/user-attachments/assets/132eed52-4f05-4ca8-bc86-a804c32ac1c6" />
+<img width="840" alt="Screenshot 2024-12-11 at 8 54 22 AM" src="https://github.com/user-attachments/assets/876bfe10-c1f7-4f81-8a9f-21bd28f20c4e" />
+<img width="841" alt="Screenshot 2024-12-11 at 8 54 38 AM" src="https://github.com/user-attachments/assets/a48d3c77-c5ca-4815-9cdd-85ddfcd4477c" />
+
+## Contact
+

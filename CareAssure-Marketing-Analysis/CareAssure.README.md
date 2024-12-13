@@ -13,6 +13,11 @@ With next year's marketing budget planning, CareAssure seeks to evaluate how eff
   * Claim information
 ![CareAssure_ERD](https://github.com/user-attachments/assets/e9ba9beb-25c0-4989-880b-c2cc0891db00)
 
+## Interactive Dashboard
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/bazilla.imran/viz/CareAssureHealthDashboard/FinalDashboard). This interactive dashboard highlights trends, distributions, and key insights across marketing and signup metrics, providing valuable context for current analysis, while claims metrics offer a foundation for the next steps. It empowers users to filter data by plan, campaign type, and state, enabling a deeper understanding of performance drivers and uncovering actionable opportunities to refine strategies.
+
+![Final Dashboard](https://github.com/user-attachments/assets/1eb5d0c7-f86f-4d5e-829c-420b3a3b09b6)
+
 ## Insighs Summary
 **In evaluating campaign performance, the analysis focused on the following key metrics:**
 
@@ -51,11 +56,6 @@ With next year's marketing budget planning, CareAssure seeks to evaluate how eff
 - **#CoverageMatters - Product Promotion Campaign Types:** Focus on this campaign category and type combination, as it delivers the lowest cost per signup while maintaining high signup volume.
 - **COVID Campaigns:** Investigate why COVID-based campaigns have an unusually high cost per signup—specifically, two signups costing over $1k each.
 - **Tailored Health Plans:** Review and revise strategies for this campaign, as it shows poor performance with low CTR despite high impressions.
-
-## Interactive Dashboard
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/bazilla.imran/viz/CareAssureHealthDashboard/FinalDashboard). This interactive dashboard highlights trends, distributions, and key insights across marketing and signup metrics, providing valuable context for current analysis, while claims metrics offer a foundation for the next steps. It empowers users to filter data by plan, campaign type, and state, enabling a deeper understanding of performance drivers and uncovering actionable opportunities to refine strategies.
-
-![Final Dashboard](https://github.com/user-attachments/assets/1eb5d0c7-f86f-4d5e-829c-420b3a3b09b6)
 
 ## PowerPoint Presentation
 <img width="840" alt="Screenshot 2024-12-11 at 8 53 55 AM" src="https://github.com/user-attachments/assets/fb8c6084-3637-4e42-9f25-d76b0e7fc890" />

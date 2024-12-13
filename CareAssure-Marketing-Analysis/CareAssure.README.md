@@ -53,7 +53,7 @@ With next year's marketing budget planning, CareAssure seeks to evaluate how eff
 - **Tailored Health Plans:** Review and revise strategies for this campaign, as it shows poor performance with low CTR despite high impressions.
 
 ## Interactive Dashboard
-The dashboard can be found in Tableau Public here. This interactive dashboard highlights trends, distributions, and key insights across marketing and signup metrics, providing valuable context for current analysis, while claims metrics offer a foundation for the next steps. It empowers users to filter data by plan, campaign type, and state, enabling a deeper understanding of performance drivers and uncovering actionable opportunities to refine strategies.
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/bazilla.imran/viz/CareAssureHealthDashboard/FinalDashboard). This interactive dashboard highlights trends, distributions, and key insights across marketing and signup metrics, providing valuable context for current analysis, while claims metrics offer a foundation for the next steps. It empowers users to filter data by plan, campaign type, and state, enabling a deeper understanding of performance drivers and uncovering actionable opportunities to refine strategies.
 
 ![Final Dashboard](https://github.com/user-attachments/assets/1eb5d0c7-f86f-4d5e-829c-420b3a3b09b6)
 

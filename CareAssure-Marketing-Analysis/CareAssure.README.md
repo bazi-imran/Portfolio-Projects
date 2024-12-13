@@ -64,4 +64,4 @@ The dashboard can be found in Tableau Public here. This interactive dashboard hi
 <img width="841" alt="Screenshot 2024-12-11 at 8 54 38 AM" src="https://github.com/user-attachments/assets/a48d3c77-c5ca-4815-9cdd-85ddfcd4477c" />
 
 ## Contact
-
+Feel free to contact me on [LinkedIn](www.linkedin.com/in/bazilla-imran-aa5ab0237)!

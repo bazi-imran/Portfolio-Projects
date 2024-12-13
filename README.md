@@ -5,3 +5,6 @@ A collection of independent data projects for my portfolio.
 ### [CareAssure Marketing Analysis](https://public.tableau.com/app/profile/bazilla.imran/viz/CareAssureHealthDashboard/FinalDashboard)
 * CareAssure Health Insurance, founded in 2016, provides medical insurance coverage across the United States. In 2019, the company launched marketing campaigns focused on wellness, affordability, and preventative care. In this project, I analyzed a sample dataset to investigate trends across various campaign categories and evaluate their effectiveness in order to provide insights on CareAssure's marketing performance. Based on these insights, I provided recommendations focused on expanding the customer base, increasing brand awareness, and optimizing budget allocation toward the best-performing campaigns across key metrics.
 *  **Tools used:** Tableau, Powerpoint
+
+### [ElectraSphere E-Commerce Analysis]
+* 

@@ -10,11 +10,15 @@ The dataset contains global sales and order information for ElectraSpheres’ pr
 * The workbook containing the analysis and more in-depth insights can be found [here](https://github.com/bazi-imran/Portfolio-Projects/blob/main/Reporting%20and%20Dashboards/ElectraSphere-Sales-Analysis/ElectraSphere_Data_Analysis.xlsx).
 
 ## Summary of the Insights
-*Revenue growth volatility: Sales peaked in 2020 with a 163% YoY increase, but declined in both 2021 (-10%) and 2022 (-46%), showing heavy dependence on short-term market surges.
-*Customer loyalty impact: Loyalty members grew from 2K in 2019 to 45K+ by 2022 (2,183% cumulative growth), driving higher order counts and stabilizing AOV despite revenue swings.
-*Average Order Value (AOV): Peaked at $300 in 2020, then declined to $230 by 2022, signaling potential discounting, product mix shifts, or waning premium purchases.
-*Product-level performance: Apple products showed high AOV (e.g., MacBook Air at $1,500+), but also higher refund rates (up to 18% in 2019–2020), especially for AirPods, which consistently made up the majority of refunds.
-*Order trends: Order volumes doubled between 2019 and 2020 (+101%), but sharply contracted in 2022 (-40%), aligning with revenue decline and customer churn outside loyalty programs.
+* **Revenue growth volatility:** Sales peaked in 2020 with a 163% YoY increase, but declined in both 2021 (-10%) and 2022 (-46%), showing heavy dependence on short-term market surges.
+  
+* **Customer loyalty impact:** Loyalty members grew from 2K in 2019 to 45K+ by 2022 (2,183% cumulative growth), driving higher order counts and stabilizing AOV despite revenue swings.
+  
+* **Average Order Value (AOV):** Peaked at $300 in 2020, then declined to $230 by 2022, signaling potential discounting, product mix shifts, or waning premium purchases.
+  
+* **Product-level performance:** Apple products showed high AOV (e.g., MacBook Air at $1,500+), but also higher refund rates (up to 18% in 2019–2020), especially for AirPods, which consistently made up the majority of refunds.
+
+* **Order trends:** Order volumes doubled between 2019 and 2020 (+101%), but sharply contracted in 2022 (-40%), aligning with revenue decline and customer churn outside loyalty programs.
 
 
 ## Recommendations

@@ -10,15 +10,19 @@ The dataset contains global sales and order information for ElectraSpheres’ pr
 * The workbook containing the analysis and more in-depth insights can be found [here](https://github.com/bazi-imran/Portfolio-Projects/blob/main/Reporting%20and%20Dashboards/ElectraSphere-Sales-Analysis/ElectraSphere_Data_Analysis.xlsx).
 
 ## Summary of the Insights
-* **Revenue growth volatility:** Sales peaked in 2020 with a 163% YoY increase, but declined in both 2021 (-10%) and 2022 (-46%), showing heavy dependence on short-term market surges.
-  
-* **Customer loyalty impact:** Loyalty members grew from 2K in 2019 to 45K+ by 2022 (2,183% cumulative growth), driving higher order counts and stabilizing AOV despite revenue swings.
-  
-* **Average Order Value (AOV):** Peaked at $300 in 2020, then declined to $230 by 2022, signaling potential discounting, product mix shifts, or waning premium purchases.
-  
-* **Product-level performance:** Apple products showed high AOV (e.g., MacBook Air at $1,500+), but also higher refund rates (up to 18% in 2019–2020), especially for AirPods, which consistently made up the majority of refunds.
+* **Yearly trends:** Between 2019 and 2022, the company generated over $28M in revenue across 100K+ orders, with an average order value (AOV) of $260. The strongest year was 2020, which recorded $10.2M in revenue, an AOV peak of $300, and a 163% YoY revenue increase, likely fueled by pandemic-driven spending. By contrast, 2021 marked the highest order volume (36K orders), while 2022 saw a steep decline (-46% revenue), highlighting volatility in customer demand.
 
-* **Order trends:** Order volumes doubled between 2019 and 2020 (+101%), but sharply contracted in 2022 (-40%), aligning with revenue decline and customer churn outside loyalty programs.
+* **Seasonality:** The business shows strong seasonality, with November and December consistently driving the highest sales and revenue due to holiday spending. Conversely, January and February tend to record the lowest activity, suggesting post-holiday slowdowns. March 2020 stood out with a major spike in orders and revenue, coinciding with initial pandemic purchasing surges.
+
+* **Product performance:** The Apple AirPods Headphones were the most popular item, selling 48K units and generating $7.7M over the period. The 27in 4K Gaming Monitor led in total revenue, with $9.9M from 23K sales. Meanwhile, the Bose Soundsport Headphones underperformed, contributing just $3.3K from 27 sales across four years.
+
+* **Product performance by region:** AirPods were the top-selling product globally, with 18,574 units ($3.1M) sold in North America, 11,227 units ($1.7M) in EMEA, 4,226 units ($0.6M) in APAC, and 1,911 units ($0.3M) in LATAM — reinforcing its global appeal.
+
+* **Marketing channel performance:** Direct marketing channels dominated, driving 84K orders and $23.2M in revenue. In contrast, social media was the weakest performer, contributing just 1.3K orders and $300K revenue. Notably, direct channels also attracted the most loyalty customers (23K), but email campaigns had the highest signup conversion rate (58%), second only to customers with unknown acquisition sources (59%).
+
+* **Loyalty program efficacy:** The loyalty program grew significantly, expanding from 12% of customers in 2019 to 52% in 2022. In 2022 alone, loyalty members made 1K more purchases than non-members, spent an average of $30 more per order, and contributed $500K in additional revenue — proving its impact on retention and lifetime value.
+
+* **Refund rates:** The ThinkPad Laptop (12%) and MacBook Air Laptop (11%) had the highest refund percentages, while the AirPods (2,636 refunds) and 27in 4K Gaming Monitor (1,444 refunds) accounted for the largest absolute refund volumes, suggesting quality or expectation issues on high-volume items.
 
 
 ## Recommendations

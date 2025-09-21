@@ -1,8 +1,8 @@
 # ElectraShpere Sales Analysis 
 
-Established in 2019, ElectraSphere is a global e-commerce electronics retailer that has sold over 100,000 orders worldwide since its inception. This analysis aimed to uncover insights across key performance areas such as sales trends, product performance, marketing effectiveness, loyalty program impact, and operational efficiency by examining transactional and marketing datasets.
+Founded in 2019, ElectraSphere is a global e-commerce electronics retailer with over 100,000 orders worldwide. This project explores key performance areas—including sales trends, product performance, marketing effectiveness, loyalty program impact, and operational efficiency—by examining transactional and marketing datasets.
 
-Using Excel, I cleaned and structured the data with advanced techniques such as Pivot Tables, aggregation functions, conditional formatting, and basic statistical methods. I created visual summaries and trend analyses to effectively communicate findings to stakeholders across marketing, product, finance, and operations teams. Furthermore, I created an interactive Tableau dashboard that highlights growth rate metrics, loyalty metrics, and product performance metrics.
+Using Excel, I cleaned and structured the data with advanced techniques such as PivotTables, aggregation functions, conditional formatting, and basic statistical methods to generate clear visual summaries and trend analyses for stakeholders across marketing, product, finance, and operations. BigQuery SQL was applied to analyze refund rates by product, identify top-selling products by region, uncover quarterly sales and AOV trends in North America, compare delivery times across channels and regions, and evaluate loyalty program performance by marketing channel. Finally, I developed an interactive Tableau dashboard highlighting growth metrics, loyalty metrics, and product performance metrics.
 
 ## About the Data
 The dataset contains global sales and order information for ElectraSpheres’ product portfolio, comprising approximately 108,000 rows.

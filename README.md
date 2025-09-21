@@ -8,6 +8,6 @@ A collection of independent data projects for my portfolio.
 
 ### [ElectraSphere E-Commerce Analysis](https://github.com/bazi-imran/Portfolio-Projects/blob/main/Reporting%20and%20Dashboards/ElectraSphere-Sales-Analysis/README.md)
 * Performed a comprehensive exploratory data analysis for a global electronics e-commerce company with 100K+ lifetime orders, transforming underutilized sales, product, and marketing data into actionable insights. Delivered findings on yearly trends, product performance, loyalty program effectiveness, and marketing ROI to guide cross-functional strategy and operational improvements.
-* **Tools used:** SQL, Excel
+* **Tools used:** SQL, Excel, Tableau
 
 

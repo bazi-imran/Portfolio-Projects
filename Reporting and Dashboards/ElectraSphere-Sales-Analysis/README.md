@@ -43,5 +43,5 @@ The dataset contains global sales and order information for ElectraSpheres’ pr
 
 * **Explore regional opportunities:** North America and EMEA drive the bulk of sales, but APAC and LATAM remain underpenetrated. Tailored regional campaigns and localized product bundles could unlock additional growth in these markets.
 
-## Future Considerations
-Further analysis could look into geographic trends and how regional performance differs across the dimensions analyzed in this project.
+## Contact
+You’re welcome to reach out on [LinkedIn](https://www.linkedin.com/in/bazilla-imran-aa5ab0237/). I’d be happy to connect!”

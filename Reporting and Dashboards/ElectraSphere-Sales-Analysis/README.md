@@ -28,7 +28,6 @@ The dataset contains global sales and order information for ElectraSpheres’ pr
 
 
 ## Recommendations
-* **Diversify beyond pandemic-driven demand:** The revenue spike in 2020 was tied to unusual market conditions (pandemic spending). To ensure sustainable growth, ElectraSphere should expand product lines and explore subscription or service-based offerings to reduce volatility in sales cycles.
 
 * **Leverage seasonality with targeted campaigns:** Since November–December consistently drive peak revenue, the company should allocate higher marketing budgets and launch bundled promotions ahead of the holiday season. Conversely, January–February require creative campaigns (e.g., New Year upgrades, student discounts) to smooth out post-holiday slumps.
 

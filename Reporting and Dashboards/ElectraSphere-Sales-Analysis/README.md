@@ -22,9 +22,9 @@ The dataset contains global sales and order information for ElectraSpheres’ pr
 * **Refund rates:** The ThinkPad Laptop (12%) and MacBook Air Laptop (11%) had the highest refund percentages, while the AirPods (2,634 refunds) and 27in 4K Gaming Monitor (1,444 refunds) accounted for the largest absolute refund volumes, suggesting quality or expectation issues on high-volume items.
   ![image alt](https://github.com/bazi-imran/Portfolio-Projects/blob/463fd4faff2278880be6731fb0b7683cb0c092ad/Reporting%20and%20Dashboards/ElectraSphere-Sales-Analysis/Product%20Trends.png)
 
-* **Marketing channel performance:** Direct marketing channels dominated, driving 84K orders and $23.2M in revenue. In contrast, social media was the weakest performer, contributing just 1.3K orders and $300K revenue. Notably, direct channels also attracted the most loyalty customers (23K), but email campaigns had the highest signup conversion rate (58%), second only to customers with unknown acquisition sources (59%).
+* **Marketing channel performance:** Direct marketing channels dominated, driving 84K orders and $23.2M in revenue. In contrast, social media was the weakest performer, contributing just 1.3K orders and $300K revenue.
 
-* **Loyalty program efficacy:** The loyalty program grew significantly, expanding from 12% of customers in 2019 to 52% in 2022. In 2022 alone, loyalty members made 1K more purchases than non-members, spent an average of $30 more per order, and contributed $500K in additional revenue — proving its impact on retention and lifetime value.
+* **Loyalty program efficacy:** Loyalty membership grew rapidly from 4% of customers in 2019 (2K customers) to a peak of 43% in 2021 (19.5K customers) before settling at 24% in 2022 (11K customers). Over the full period, loyalty members contributed 39% of total revenue ($11M) and 42% of total orders (46K). They also showed higher average order value (AOV $240 vs. $275 for non-loyalty) and steadily increased their share of sales, indicating the program successfully boosted repeat purchasing and long-term revenue impact despite the post-2021 decline in participation.
 
 
 ## Recommendations

@@ -8,6 +8,7 @@ Using Excel, I cleaned and structured the data with advanced techniques such as 
 The dataset contains global sales and order information for ElectraSpheres’ product portfolio, comprising approximately 108,000 rows.
 * Details on the data cleaning and preparation process are available [here](https://github.com/bazi-imran/Portfolio-Projects/blob/main/Reporting%20and%20Dashboards/ElectraSphere-Sales-Analysis/Data%20Cleaning%20Documentation.pdf).
 * The workbook containing the analysis and more in-depth insights can be found [here](https://github.com/bazi-imran/Portfolio-Projects/blob/main/Reporting%20and%20Dashboards/ElectraSphere-Sales-Analysis/ElectraSphere_Analysis.xlsx).
+* The SQL script can be found [here](https://github.com/bazi-imran/Portfolio-Projects/blob/main/Reporting%20and%20Dashboards/ElectraSphere-Sales-Analysis/sql-analysis.sql)
 * The interactive dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/bazilla.imran/viz/ElectraSphereDashboard/Dashboard1). This dashboard focusing on growth rate, loyality and marketing metrics.
 
 ## Summary of the Insights

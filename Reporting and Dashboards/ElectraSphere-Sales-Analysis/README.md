@@ -15,10 +15,11 @@ The dataset contains global sales and order information for ElectraSpheres’ pr
 * **Seasonality:** The business shows strong seasonality, with November and December consistently driving the highest sales and revenue due to holiday spending. Conversely, January and February tend to record the lowest activity, suggesting post-holiday slowdowns. March 2020 stood out with a major spike in orders and revenue, coinciding with initial pandemic purchasing surges.
 
 * **Product performance:** Product performance: The Apple AirPods Headphones were the most popular item, selling 48K units and generating $7.7M over the period. The 27in 4K Gaming Monitor led in total revenue, with $9.9M from 23K sales. Meanwhile, the Bose Soundsport Headphones underperformed, contributing just $3.3K from 27 sales across four years.
+  ![image alt](
 
 * **Product performance by region:** AirPods were the top-selling product globally, with 18,574 units ($3.1M) sold in North America, 11,227 units ($1.7M) in EMEA, 4,226 units ($0.6M) in APAC, and 1,911 units ($0.3M) in LATAM — reinforcing its global appeal.
 
-* **Refund rates:** The ThinkPad Laptop (12%) and MacBook Air Laptop (11%) had the highest refund percentages, while the AirPods (2,636 refunds) and 27in 4K Gaming Monitor (1,444 refunds) accounted for the largest absolute refund volumes, suggesting quality or expectation issues on high-volume items.
+* **Refund rates:** The ThinkPad Laptop (12%) and MacBook Air Laptop (11%) had the highest refund percentages, while the AirPods (2,634 refunds) and 27in 4K Gaming Monitor (1,444 refunds) accounted for the largest absolute refund volumes, suggesting quality or expectation issues on high-volume items.
   ![image alt](https://github.com/bazi-imran/Portfolio-Projects/blob/463fd4faff2278880be6731fb0b7683cb0c092ad/Reporting%20and%20Dashboards/ElectraSphere-Sales-Analysis/Product%20Trends.png)
 
 * **Marketing channel performance:** Direct marketing channels dominated, driving 84K orders and $23.2M in revenue. In contrast, social media was the weakest performer, contributing just 1.3K orders and $300K revenue. Notably, direct channels also attracted the most loyalty customers (23K), but email campaigns had the highest signup conversion rate (58%), second only to customers with unknown acquisition sources (59%).

@@ -17,13 +17,11 @@ The dataset contains global sales and order information for ElectraSpheres’ pr
 * **Product performance:** The 27in 4K Gaming Monitor was the top revenue driver, generating $9.8M from 23K sales with an AOV of $421, though it carried a 6% refund rate. The Apple AirPods Headphones were the most popular item by sales volume (48K units) but with a lower AOV ($160) and the highest number of refunds (2,634, 5% refund rate). High-ticket products like the MacBook Air Laptop ($6.3M, AOV $1,590) and ThinkPad Laptop ($3.2M, AOV $1,102) also contributed significantly but showed the highest refund rates (11% and 12% respectively), suggesting potential customer satisfaction or quality issues. Meanwhile, the Bose Soundsport Headphones underperformed, generating only $3.3K with 0 refunds. Overall, performance trends suggest that while premium tech products drive revenue, refunds are concentrated among higher-value items, whereas lower-cost accessories provide more stable, low-risk contributions.
  ![image alt](https://github.com/bazi-imran/Portfolio-Projects/blob/463fd4faff2278880be6731fb0b7683cb0c092ad/Reporting%20and%20Dashboards/ElectraSphere-Sales-Analysis/Product%20Trends.png)
 
-* **Product performance by region:** AirPods were the top-selling product globally, with 18,574 units ($3.1M) sold in North America, 11,227 units ($1.7M) in EMEA, 4,226 units ($0.6M) in APAC, and 1,911 units ($0.3M) in LATAM — reinforcing its global appeal.
+* **Refund rates:** The ThinkPad Laptop (12%) and MacBook Air Laptop (11%) had the highest refund percentages, while the AirPods (2,636 refunds) and 27in 4K Gaming Monitor (1,444 refunds) accounted for the largest absolute refund volumes, suggesting quality or expectation issues on high-volume items.
 
 * **Marketing channel performance:** Direct marketing channels dominated, driving 84K orders and $23.2M in revenue. In contrast, social media was the weakest performer, contributing just 1.3K orders and $300K revenue. Notably, direct channels also attracted the most loyalty customers (23K), but email campaigns had the highest signup conversion rate (58%), second only to customers with unknown acquisition sources (59%).
 
 * **Loyalty program efficacy:** The loyalty program grew significantly, expanding from 12% of customers in 2019 to 52% in 2022. In 2022 alone, loyalty members made 1K more purchases than non-members, spent an average of $30 more per order, and contributed $500K in additional revenue — proving its impact on retention and lifetime value.
-
-* **Refund rates:** The ThinkPad Laptop (12%) and MacBook Air Laptop (11%) had the highest refund percentages, while the AirPods (2,636 refunds) and 27in 4K Gaming Monitor (1,444 refunds) accounted for the largest absolute refund volumes, suggesting quality or expectation issues on high-volume items.
 
 
 ## Recommendations

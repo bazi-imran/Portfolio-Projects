@@ -8,6 +8,7 @@ Using Excel, I cleaned and structured the data with advanced techniques such as 
 The dataset contains global sales and order information for ElectraSpheres’ product portfolio, comprising approximately 108,000 rows.
 * Details on the data cleaning and preparation process are available [here](https://github.com/bazi-imran/Portfolio-Projects/blob/main/Reporting%20and%20Dashboards/ElectraSphere-Sales-Analysis/Data%20Cleaning%20Documentation.pdf).
 * The workbook containing the analysis and more in-depth insights can be found [here](https://github.com/bazi-imran/Portfolio-Projects/blob/main/Reporting%20and%20Dashboards/ElectraSphere-Sales-Analysis/ElectraSphere_Analysis.xlsx).
+* The interactive dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/bazilla.imran/viz/ElectraSphereDashboard/Dashboard1). This dashboard focusing on growth rate, loyality and marketing metrics.
 
 ## Summary of the Insights
 * **Yearly trends:** Between 2019 and 2022, the company generated over $28M in revenue across 100K+ orders, with an average order value (AOV) of $260. The strongest year was 2020, which recorded $10.2M in revenue, an AOV peak of $300, and a 163% YoY revenue increase, likely fueled by pandemic-driven spending. By contrast, 2021 marked the highest order volume (36K orders), while 2022 saw a steep decline (-46% revenue), highlighting volatility in customer demand.

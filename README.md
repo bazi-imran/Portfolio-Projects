@@ -10,7 +10,7 @@ A collection of independent data projects for my portfolio.
 * Performed a comprehensive exploratory data analysis for a global electronics e-commerce company with 100K+ lifetime orders, transforming underutilized sales, product, and marketing data into actionable insights. Delivered findings on yearly trends, product performance, loyalty program effectiveness, and marketing ROI to guide cross-functional strategy and operational improvements.
 * **Tools used:** SQL, Excel, Tableau
 
-### [Instacart Marketing Analysis]([https://github.com/bazi-imran/Portfolio-Projects/blob/main/Reporting%20and%20Dashboards/ElectraSphere-Sales-Analysis/README.md](https://github.com/bazi-imran/Python-Instacart-Analysis))
+### [Instacart Marketing Analysis][(https://github.com/bazi-imran/Python-Instacart-Analysis/tree/main)
 * Instacart Purchase Behavior & Basket Analysis:
 Performed a comprehensive exploratory analysis of the Instacart grocery dataset (over 3.4 million orders), transforming raw order, product, and user data into actionable insights about customer purchasing patterns, product reorders, and order timings. Delivered findings on the most frequently reordered items, peak order hours and days of week, customer segmentation by reorder behavior, and product affinity to help inform cross-selling and recommendation strategies.
 * **Tools used:** Python (Pandas, NumPy), SQL, Jupyter Notebook, Matplotlib / Seaborn

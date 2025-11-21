@@ -13,4 +13,4 @@ A collection of independent data projects for my portfolio.
 ### [Instacart Marketing Analysis](https://github.com/bazi-imran/Python-Instacart-Analysis/tree/main)
 * Instacart Purchase Behavior & Basket Analysis:
 Performed a comprehensive exploratory analysis of the Instacart grocery dataset (over 3.4 million orders), transforming raw order, product, and user data into actionable insights about customer purchasing patterns, product reorders, and order timings. Delivered findings on the most frequently reordered items, peak order hours and days of week, customer segmentation by reorder behavior, and product affinity to help inform cross-selling and recommendation strategies.
-* **Tools used:** Python (Pandas, NumPy), SQL, Jupyter Notebook, Matplotlib / Seaborn
+* **Tools used:** Python (Pandas, NumPy), SQL, Jupyter Notebook, Matplotlib, Seaborn
